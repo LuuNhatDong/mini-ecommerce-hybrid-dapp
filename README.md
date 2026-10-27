@@ -1,4 +1,4 @@
-# 🛒 Mini E-Commerce tích hợp thanh toán Smart Contract (Hybrid DApp)
+#  Mini E-Commerce tích hợp thanh toán Smart Contract (Hybrid DApp)
 
 Dự án xây dựng hệ thống thương mại điện tử mini áp dụng mô hình ứng dụng phân tán lai (Hybrid DApp). Hệ thống kết hợp giữa kiến trúc Web truyền thống (Off-chain) để quản lý dữ liệu sản phẩm, người dùng và Blockchain (On-chain) để thực hiện giao dịch thanh toán minh bạch, tự động thông qua Smart Contract.
 
@@ -13,7 +13,7 @@ Dự án xây dựng hệ thống thương mại điện tử mini áp dụng m�
 
 ---
 
-## 🏛️ Kiến trúc hệ thống (Hybrid Architecture)
+##  Kiến trúc hệ thống (Hybrid Architecture)
 [ Frontend: ReactJS + Web3/MetaMask ]
 │                       │
 │ (REST API)            │ (Gửi giao dịch thanh toán)
@@ -31,7 +31,7 @@ Dự án xây dựng hệ thống thương mại điện tử mini áp dụng m�
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+##  Công nghệ sử dụng
 
 * **Blockchain & Smart Contract:** Solidity, Remix IDE / Hardhat, Sepolia Testnet, MetaMask.
 * **Web3 Integration:** Ethers.js / Web3.js.
@@ -41,7 +41,7 @@ Dự án xây dựng hệ thống thương mại điện tử mini áp dụng m�
 
 ---
 
-## 👥 Phân công nhiệm vụ thành viên
+##  Phân công nhiệm vụ thành viên
 
 | Vai trò | Thành viên | Nhiệm vụ chính |
 | :--- | :--- | :--- |
@@ -51,7 +51,7 @@ Dự án xây dựng hệ thống thương mại điện tử mini áp dụng m�
 
 ---
 
-## 📂 Cấu trúc thư mục mã nguồn
+##  Cấu trúc thư mục mã nguồn
 
 ```text
 ├── database/            # Script tạo bảng MySQL, lược đồ quan hệ ERD
